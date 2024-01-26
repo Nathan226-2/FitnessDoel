@@ -60,7 +60,7 @@ nav ul li a:hover{
 }
 
 body{
-    background-color: rgb(110, 106, 99);
+    background-color: rgb(124, 123, 123);
 }
 
 p{
@@ -146,6 +146,11 @@ form button{
     background-color: #ca3e39;
     padding: 5px;
     margin: 10px;
+}
+
+.section1 img{
+    margin-top: 2em;
+    height: 80%;
 }
 
 .texth {
