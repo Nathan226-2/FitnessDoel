@@ -95,6 +95,7 @@ footer ul{
     color: #efefef;
     margin-bottom: 10px;
     flex-grow: 2;
+    margin-left: 5em;
 }
 
 footer ul li a{
@@ -139,7 +140,8 @@ form button{
 
 .social-icons i{
     font-size: 22px;
-    margin: 10px; 
+    margin: 10px
+  
 }
 
 
